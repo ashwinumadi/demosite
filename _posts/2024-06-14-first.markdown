@@ -1,0 +1,15 @@
+---
+title: First post
+date: 2024-06-14 12:00
+author: mycrush
+image: http://placehold.it/900x300
+lead: "This is the lead, i DONT KNOW why"
+category: Jekyll-Ash
+subtitle: Easy to maintain, easy to scale
+---
+
+Some of the benifits of first post are
+
+- ** Simple ** - Teacher is amazing aha
+- ** Beautiful ** - So beautiful so elegant just looking like a wow
+- what do you have for me haa.
