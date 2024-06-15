@@ -23,7 +23,7 @@ email: ashwin@bossu.com
 description: >- # this means to ignore newlines until "baseurl:"
   meta deta in google search beka?
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://ashwinumadi.github.io/demosite # the base hostname & protocol for your site, e.g. http://example.com
+url: https://ashwinumadi.github.io/demosite/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
